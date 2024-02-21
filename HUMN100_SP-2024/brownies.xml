@@ -24,7 +24,7 @@
 
          <list><item cert="high" n="4" xml:space="default"><measure>4 oz (1 box)</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="chocolate" xml:space="default">unsweetened chocolate</objectName></item>         
          <item cert="high" n=".66" xml:space="default">⅔ cup <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="dairy" xml:space="default">butter</objectName></item>
-         <item>1 ⅓ cup <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="dry goods">all purpose flour</objectName></item>         
+         <item>1 ⅓ cup <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="dryGoods">all purpose flour</objectName></item>         
          <item>1 teaspoon <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="dry goods" xml:space="default">baking powder</objectName></item>         
          <item><measure>½ teaspoon</measure> <objectName>salt</objectName></item>         
          <item>4 <objectName>eggs</objectName></item>         
