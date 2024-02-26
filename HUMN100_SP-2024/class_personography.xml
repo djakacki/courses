@@ -15,7 +15,7 @@
    <text>
       <body>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default">
                <person>
                   <persName>Diane Jakacki</persName>
                   <birth>
