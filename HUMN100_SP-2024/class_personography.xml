@@ -31,12 +31,10 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME2</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Claire Cahoon</persName> <birth><date>DATE</date>
+                     <placeName>Charlottesville, VA</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
+                  <occupation>DP&amp;S</occupation>
                   <affiliation>THING I'M A PART OF</affiliation>
                </person>
             </listPerson>
