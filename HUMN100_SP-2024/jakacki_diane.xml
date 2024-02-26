@@ -20,24 +20,18 @@
 		<body>
 			<div>
 				<head>Diane Jakacki</head>
-				<listPerson>
+				<listPerson xml:id="humn10016">
 					<person>
 						<persName>Jakacki, Diane</persName>
 						<birth>
 							<placeName>Englewood Cliffs, NJ</placeName>
+							<date>some time in the past</date>
 						</birth>
+						<occupation>student</occupation>
 					</person>
 					
 				</listPerson>
-				<listRelation>
-					<relation><desc/></relation>
-				</listRelation>
-				<p>Replace with your text.</p>
-			</div>
-			<div>
-				<head>some person</head>
-				<listPerson/>
-				<listRelation/>
+				<p>Fun fact: I hate lima beans. I mean really.</p>
 			</div>
 		</body>
 	</text>
