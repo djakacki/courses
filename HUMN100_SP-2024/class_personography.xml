@@ -23,15 +23,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation>
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -42,15 +37,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -61,8 +51,22 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>FUN FACT</p>
+         </div>
+         <div>
+            <listPerson>
+               <person>
+                  <persName>NAME4</persName>
+                  <birth>
+                     <date>DATE</date>
+                     <placeName>PLACE</placeName>
+                  </birth>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
             <listRelation>
@@ -80,34 +84,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
-            <p>FUN FACT</p>
-         </div>
-         <div>
-            <listPerson>
-               <person>
-                  <persName>NAME4</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -118,15 +98,11 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
+
             <p>FUN FACT</p>
          </div>
          <div>
@@ -137,15 +113,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -156,15 +127,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -175,15 +141,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -194,15 +155,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -213,15 +169,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -232,15 +183,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -251,15 +197,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -270,15 +211,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
          <div>
@@ -289,15 +225,10 @@
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>ACTIVITY</occupation>
-                  <affiliation>THING I'M A PART OF</affiliation>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
-               </relation>
-            </listRelation>
             <p>FUN FACT</p>
          </div>
       </body>
