@@ -22,10 +22,10 @@
                      <date>DATE</date>
                      <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation>academic </occupation><occupation>frisbee athlete</occupation> <affiliation>Alliance of Digital Humanities Organizations</affiliation><affiliation>The Congregational Church</affiliation></person></listPerson><p>I love Formula 1 racing.</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="position" xml:space="default">academic </occupation><occupation cert="high" evidence="internal" instant="unknown" type="athletics" xml:space="default">frisbee athlete</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="professionalOrganization" xml:space="default">Alliance of Digital Humanities Organizations</affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="religion" xml:space="default">The Congregational Church</affiliation></person></listPerson><p>I love Formula 1 racing.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="1234" xml:space="default">
                <person>
                   <persName>NAME2</persName><birth><date>DATE</date>
                      <placeName>PLACE</placeName>
