@@ -11,16 +11,20 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+</teiHeader>
    <text>
       <body>
          <div>
-            <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default">
+            <listPerson>
                <person>
-                  <persName>Diane K. Jakacki </persName><birth><date>DATE</date>
-                     <placeName>Englewood Cliffs, NJ</placeName>
+                  <persName>NAME2</persName><birth><date>DATE</date>
+                     <placeName>PLACE</placeName>
                   </birth>
-                  <occupation>English Major </occupation><occupation cert="high" evidence="internal" instant="unknown" type="profession" xml:space="default">Academic </occupation> <affiliation>Renaissance Society of America</affiliation><affiliation> Delta Gamma</affiliation></person></listPerson><p>I hate lima beans. ... also egg salad.</p>
+                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <affiliation>GROUP I'M A PART OF</affiliation>
+               </person>
+            </listPerson>
+            <p>FUN FACT</p>
          </div>
          <div>
             <listPerson>
