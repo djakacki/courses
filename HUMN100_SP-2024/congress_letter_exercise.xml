@@ -465,10 +465,10 @@
 				who are allowed no vote and therefore no representation cannot truly be heard except
 				as Congress shall open its doors to us in person.</p>
 			<closer><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335" cert="high" type="real">Elizabeth Cady
-						Stanton</persName> 
-				Isabella Beecher Hooker 
-				Elizabeth S. Bladen 
-				Olympia Brown 
+						Stanton</persName> <lb/>
+				Isabella Beecher Hooker <lb/>
+				Elizabeth S. Bladen <lb/>
+				Olympia Brown <lb/>
 				Susan B. Anthony 
 				Josephine S. Griffing 
 				<placeName key="Hartford, Connecticut" ref="http://dbpedia.org/resource/Hartford,_Connecticut" cert="high">Hartford Conn.<precision match="@ref" precision="high"/></placeName> <date when="1871-12"><date when="1871-12" cert="high">Dec. 1871</date></date></closer>
